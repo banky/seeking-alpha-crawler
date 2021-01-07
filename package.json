@@ -1,0 +1,24 @@
+{
+  "name": "seeking-alpha-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banky/seeking-alpha-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banky/seeking-alpha-crawler/issues"
+  },
+  "homepage": "https://github.com/banky/seeking-alpha-crawler#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.5.0"
+  }
+}
